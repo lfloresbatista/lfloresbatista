@@ -6,7 +6,5 @@
 
 Refuge yourself in Knowledge
 
-<!---
-lfloresbatista/lfloresbatista is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+@lfloresbatista
+<br><a href="https://www.linkedin.com/in/luisfloresb/" target="_blank">Linkedin</a> | <a href="https://instagram.com/soy.krlomagno" target="_blank">Instagram</a> | <a href="https://wa.me/50766319520" target="_blank">Whatsapp</a> | <a href="https://twitter.com/lfloresbatista" target="_blank">Twitter</a>
